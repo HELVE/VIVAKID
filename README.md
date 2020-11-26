@@ -3,13 +3,14 @@
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
-# VACŌ - PROJECT TEMPLATE FRAMEWORK
+# VIVAKID - AI-DRIVEN STORIES FOR KIDS
+
+AI driven stories where kids can talk about the details of things, ask anything and the AI will add details.
+
+Potential platform: http://viv.ai/ 
 
 
-http://viv.ai/ Still thinking about AI driven stories where kids can talk about the details of things, ask anything and the AI will add details.
 
-
-Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
