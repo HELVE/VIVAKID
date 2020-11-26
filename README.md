@@ -1,4 +1,4 @@
-![Project Banner](/assets/readme_visuals/vaco-banner.png)
+![Project Banner](vivakid_logo_cover.png)
 
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
