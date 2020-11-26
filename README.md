@@ -9,8 +9,7 @@ AI driven stories where kids can talk about the details of things, ask anything 
 
 Potential platform: http://viv.ai/ 
 
-
-
+![Project Banner](vivakid_tapstart.png)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
